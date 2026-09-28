@@ -121,3 +121,7 @@ Each new technology will be added to the **same project**, gradually turning it 
 `Computer Science Engineering Graduate` • `Python Developer` • `AI/ML Enthusiast`
 
 ⭐ If you find this project useful, consider giving it a star!
+
+## 📊 Project Output
+
+![Student Performance Analyzer Output](project_output.png)
