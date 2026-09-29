@@ -124,4 +124,4 @@ Each new technology will be added to the **same project**, gradually turning it 
 
 ## 📊 Project Output
 
-![Student Performance Analyzer Output](project_output.png)
+![Student Performance Analyzer Output](project_output_github.png)
