@@ -16,7 +16,7 @@ The project is designed to grow continuously as new Data Science and Machine Lea
 
 ### 🔥 Project Evolution
 
-**NumPy → Pandas → Matplotlib → Seaborn → Streamlit → Machine Learning**
+**NumPy → Pandas → Matplotlib → Seaborn → Streamlit → Machine Learning -> git -> github **
 
 ---
 
@@ -125,3 +125,4 @@ Each new technology will be added to the **same project**, gradually turning it 
 ## 📊 Project Output
 
 ![Student Performance Analyzer Output](project_output_github.png)
+
